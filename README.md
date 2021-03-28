@@ -7,4 +7,4 @@ de las siguientes bases:
         Hexadecimal
         Binario
         Quinario
-f
+
