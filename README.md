@@ -1,5 +1,5 @@
 Programa-Conversor-Bases
-Proyecto desarrollado en python sin entornog rafico, que permite convertir numeros
+Proyecto desarrollado en python sin entorno gráfico, que permite convertir números
 de las siguientes bases:
 
         Octal
@@ -7,3 +7,4 @@ de las siguientes bases:
         Hexadecimal
         Binario
         Quinario
+f
